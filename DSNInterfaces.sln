@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSNInterfaces", "IDSNService\DSNInterfaces.csproj", "{CB3B8190-DAEE-4657-962A-57E880E41B80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spacecraft", "..\Spacecraft\Spacecraft\Spacecraft.csproj", "{A029A420-88D8-41F0-BEB3-D7708E99D1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB3B8190-DAEE-4657-962A-57E880E41B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3B8190-DAEE-4657-962A-57E880E41B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3B8190-DAEE-4657-962A-57E880E41B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3B8190-DAEE-4657-962A-57E880E41B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A029A420-88D8-41F0-BEB3-D7708E99D1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A029A420-88D8-41F0-BEB3-D7708E99D1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A029A420-88D8-41F0-BEB3-D7708E99D1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A029A420-88D8-41F0-BEB3-D7708E99D1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992E3922-A472-4984-BADB-6E8DC31CA8F6}
+	EndGlobalSection
+EndGlobal
